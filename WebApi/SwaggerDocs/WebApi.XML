@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Controllers.ApiBaseController`2.Get">
+            <summary>
+            Consultar Todos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.ApiBaseController`2.Get(System.Int64)">
+            <summary>
+            Consultar por Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
